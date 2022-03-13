@@ -1,5 +1,5 @@
 import os
-
+os.system('git pull')
 try:os.system('mkdir OK')
 except:pass
 try:os.system('mkdir CP')
