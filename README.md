@@ -35,6 +35,6 @@ Cara Menjalankan Scripts
 
 cd $HOME
 
-cd 4MBF
+cd 4MBF-1
 
-python 4MBF.py
+python 4MBF-1.py
