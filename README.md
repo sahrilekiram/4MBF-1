@@ -29,7 +29,7 @@ cd $HOME
 
 rm -rf 4MBF
 
-git clone https://github.com/aorec-xd/4MBF
+git clone https://github.com/sahrilekiram/4MBF-1
 
 Cara Menjalankan Scripts
 
